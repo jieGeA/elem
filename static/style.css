@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?u69o6n');
+  src:  url('fonts/icomoon.eot?u69o6n#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?u69o6n') format('truetype'),
+    url('fonts/icomoon.woff?u69o6n') format('woff'),
+    url('fonts/icomoon.svg?u69o6n#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-thumbs-down:before {
+  content: "\e900";
+}
+.icon-dislike:before {
+  content: "\e900";
+}
+.icon-thumbs-up:before {
+  content: "\e901";
+}
+.icon-like:before {
+  content: "\e901";
+}
+.icon-approve:before {
+  content: "\e901";
+}
+.icon-cart:before {
+  content: "\e93a";
+}
+.icon-bin2:before {
+  content: "\e9ad";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-minus:before {
+  content: "\ea0b";
+}
+.icon-cancel-circle:before {
+  content: "\ea0d";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-left:before {
+  content: "\ea44";
+}
+.icon-shopping-cart:before {
+  content: "\e902";
+}
+.icon-plus-circle:before {
+  content: "\e903";
+}
